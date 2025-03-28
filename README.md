@@ -34,10 +34,10 @@ Using data sourced from LinkedIn and cleaned with Python, the dashboard provides
 ## Dashboard Preview
 
 ### 📈 Job Market Trends  
-![Job Market Trends](job_market_trends.jpeg)
+![Job Market Trends](Jobmarkettrends.jpeg)
 
 ### 💰 Salary Benchmarking  
-![Salary Benchmarking](salary_benchmarking.jpeg)
+![Salary Benchmarking](Salarybenchmarking.jpeg)
 
 ### 🔥 Candidate Interest  
 ![Candidate Interest](candidate_interest.jpeg)
