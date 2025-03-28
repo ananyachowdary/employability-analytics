@@ -3,7 +3,7 @@ Empowering career advisors with real-time labor market insights for Business Ana
 
 ---
 
-## 📄 Project Description
+## Project Description
 
 This project aims to optimize career advisory services by providing data-driven insights into the Business Analyst job market. Our dashboard helps career advisors analyze:
 
@@ -17,7 +17,7 @@ Using data sourced from LinkedIn and cleaned with Python, the dashboard provides
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -31,58 +31,25 @@ Using data sourced from LinkedIn and cleaned with Python, the dashboard provides
 
 ---
 
-🚀 Usage
+## Dashboard Preview
 
-Launch Power BI Desktop
-Load the file: Team16.pbix
-Use slicers to filter by:
-State
-Experience level
-Work type (Remote, Hybrid, On-Site)
-Job type or contract type
-Hover over visuals to see detailed tooltips
-Reset filters using the reset button on the top panel
+### 📈 Job Market Trends  
+![Job Market Trends](job_market_trends.jpeg)
 
-🌟 Features
+### 💰 Salary Benchmarking  
+![Salary Benchmarking](salary_benchmarking.jpeg)
 
-📊 Job market trends over time
-💰 Salary benchmarks by experience level and state
-🔥 Candidate interest heatmap
-🧭 Career path distribution
-🏢 Employer demand by application volume
-🔄 Interactive filters: location, salary, experience, contract type
+### 🔥 Candidate Interest  
+![Candidate Interest](candidate_interest.jpeg)
 
-📊 Dashboard Preview
+### 🧭 Career Path Distribution  
+![Career Path Distribution](career_path.jpeg)
 
-Job Market Trends
-Salary Benchmarking
-Candidate Interest
-Career Path Distribution
-Employer Demand
-
-📁 Project Structure
-
-employability-analytics/
-├── Team16.pbix
-├── README.md
-├── data/
-│   └── CLEANED_Business_analyst_job_listings.csv
-├── images/
-│   ├── job_market_trends.jpeg
-│   ├── salary_benchmarking.jpeg
-│   ├── candidate_interest.jpeg
-│   ├── career_path.jpeg
-│   └── employer_demand.jpeg
-
-🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
-
-To contribute:
-fork → clone → branch → commit → push → pull request
+### 🏢 Employer Demand  
+![Employer Demand](employer_demand.jpeg)
 
 
-## ⚙️ Installation
+## Installation
 
 > You need [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open and interact with the dashboard.
 
@@ -90,21 +57,3 @@ fork → clone → branch → commit → push → pull request
 ```bash
 git clone https://github.com/ananyachowdary/employability-analytics.git
 cd employability-analytics
-
-🙏 Acknowledgements
-
-💻 Power BI
-🧹 Python & Pandas for data cleaning
-📊 Dataset: LinkedIn job listings + manual cleaning
-📘 Team 16 – IS-5960-04 @ Saint Louis University
-Ananya Chowdary Bheemaneni
-Maneesha Kakarla
-Bala Krishna Kalavakunta
-Laya Kalva
-Manohar Kancharla
-Sai Venkata Sriram Chowdary Karicheti
-👩‍🏫 Professor Maria Weber
-
-
-
-
