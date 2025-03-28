@@ -88,27 +88,18 @@ To contribute:
 ```bash
 fork → clone → branch → commit → push → pull request
 
-## Acknowledgements
 
-- [Power BI](https://powerbi.microsoft.com/)
-- [LinkedIn](https://linkedin.com)
-- [Kaggle](https://www.kaggle.com/)
-- Python & Pandas for preprocessing
-- Team 16 – Saint Louis University  
-  - Ananya Chowdary Bheemaneni  
-  - Maneesha Kakarla  
-  - Bala Krishna Kalavakunta  
-  - Laya Kalva  
-  - Manohar Kancharla  
-  - Sai Venkata Sriram Chowdary Karicheti  
-- Professor Maria Weber
+**## Acknowledgements**
 
+Power BI
+Kaggle & LinkedIn job datasets
+Python (Pandas) for data preprocessing
+Team 16 – IS-5960-04 @ Saint Louis University:
+Ananya Chowdary Bheemaneni
+Maneesha Kakarla
+Bala Krishna Kalavakunta
+Laya Kalva
+Manohar Kancharla
+Sai Venkata Sriram Chowdary Karicheti
+Professor Maria Weber
 
-## Installation
-
-> You need [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open and interact with the dashboard.
-
-1. Clone the repository:
-```bash
-git clone https://github.com/ananyachowdary/employability-analytics.git
-cd employability-analytics
