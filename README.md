@@ -4,8 +4,10 @@ Dashboard for Business Analyst job insights using Power BI
 
 ### 📈 Job Market Trends
 
-![Job Market Trends](images/Jobmarkettrends.jpeg)
+![Job Market Trends](Jobmarkettrends.jpeg)
+
 
 ### 💰 Salary Benchmarking
 
-![Salary Benchmarking](images/Salarybenchmarking.jpeg)
+![Salary Benchmarking](Salarybenchmarking.jpeg)
+
