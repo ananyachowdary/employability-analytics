@@ -19,17 +19,36 @@ Using data sourced from LinkedIn and cleaned with Python, the dashboard provides
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
 - [Dashboard Preview](#dashboard-preview)
 - [Project Structure](#project-structure)
-- [Live Dashboard](#live-dashboard)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
-
+- [Installation](#installation)
 ---
+
+## Usage
+
+Open Power BI Desktop
+Load the file Team16.pbix
+Use slicers and filters to explore:
+Location
+Experience level
+Contract type
+Job type
+Interact with visualizations and hover over tooltips
+Reset filters using the built-in reset button
+
+## Features
+
+- 📈 Job market trend visualization  
+- 💰 Salary benchmarking  
+- 🔥 Candidate interest heatmap  
+- 🧭 Career path distribution  
+- 🏢 Employer demand overview  
+- 🎯 Real-time filtering with slicers
+
 
 ## Dashboard Preview
 
@@ -47,6 +66,42 @@ Using data sourced from LinkedIn and cleaned with Python, the dashboard provides
 
 ### 🏢 Employer Demand  
 ![Employer Demand](employer_demand.jpeg)
+
+## Project Structure
+
+employability-analytics/├── Team16.pbix
+                        ├── README.md 
+                        ├── Jobmarkettrends.jpeg 
+                        ├── Salarybenchmarking.jpeg 
+                        ├── candidate_interest.jpeg 
+                        ├── career_path.jpeg 
+                        ├── employer_demand.jpeg 
+                        ├── data/ 
+                        │ └── CLEANED_Business_analyst_job_listings.csv
+
+## Contributing
+
+Pull requests are welcome.  
+For major changes, please open an issue first to discuss what you'd like to change.
+
+To contribute:
+```bash
+fork → clone → branch → commit → push → pull request
+
+## Acknowledgements
+
+- [Power BI](https://powerbi.microsoft.com/)
+- [LinkedIn](https://linkedin.com)
+- [Kaggle](https://www.kaggle.com/)
+- Python & Pandas for preprocessing
+- Team 16 – Saint Louis University  
+  - Ananya Chowdary Bheemaneni  
+  - Maneesha Kakarla  
+  - Bala Krishna Kalavakunta  
+  - Laya Kalva  
+  - Manohar Kancharla  
+  - Sai Venkata Sriram Chowdary Karicheti  
+- Professor Maria Weber
 
 
 ## Installation
