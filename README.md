@@ -23,8 +23,8 @@ Using data sourced from LinkedIn and cleaned with Python, the dashboard provides
 - [Features](#features)
 - [Dashboard Preview](#dashboard-preview)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
+- [Contributing](#contributing)
 - [Installation](#installation)
 ---
 
@@ -79,17 +79,7 @@ employability-analytics/├── Team16.pbix
                         ├── data/ 
                         │ └── CLEANED_Business_analyst_job_listings.csv
 
-## Contributing
-
-Pull requests are welcome.  
-For major changes, please open an issue first to discuss what you'd like to change.
-
-To contribute:
-```bash
-fork → clone → branch → commit → push → pull request
-
-
-**## Acknowledgements**
+## Acknowledgements
 
 Power BI
 Kaggle & LinkedIn job datasets
@@ -102,4 +92,25 @@ Laya Kalva
 Manohar Kancharla
 Sai Venkata Sriram Chowdary Karicheti
 Professor Maria Weber
+
+## Contributing
+
+Pull requests are welcome.  
+For major changes, please open an issue first to discuss what you'd like to change.
+
+To contribute:
+```bash
+fork → clone → branch → commit → push → pull request
+
+
+## Installation
+
+> You need [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open and interact with the dashboard.
+
+1. Clone the repository:
+```bash
+git clone https://github.com/ananyachowdary/employability-analytics.git
+cd employability-analytics
+
+
 
