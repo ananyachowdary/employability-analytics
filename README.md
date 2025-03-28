@@ -24,8 +24,8 @@ Using data sourced from LinkedIn and cleaned with Python, the dashboard provides
 - [Dashboard Preview](#dashboard-preview)
 - [Project Structure](#project-structure)
 - [Acknowledgements](#acknowledgements)
-- [Contributing](#contributing)
 - [Installation](#installation)
+- [Contributing](#contributing)
 ---
 
 ## Usage
@@ -79,6 +79,7 @@ employability-analytics/├── Team16.pbix
                         ├── data/ 
                         │ └── CLEANED_Business_analyst_job_listings.csv
 
+
 ## Acknowledgements
 
 Power BI
@@ -93,6 +94,16 @@ Manohar Kancharla
 Sai Venkata Sriram Chowdary Karicheti
 Professor Maria Weber
 
+
+## Installation
+
+> You need [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open and interact with the dashboard.
+
+1. Clone the repository: ```bash
+git clone https://github.com/ananyachowdary/employability-analytics.git
+cd employability-analytics
+
+
 ## Contributing
 
 Pull requests are welcome.  
@@ -103,14 +114,8 @@ To contribute:
 fork → clone → branch → commit → push → pull request
 
 
-## Installation
 
-> You need [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open and interact with the dashboard.
 
-1. Clone the repository:
-```bash
-git clone https://github.com/ananyachowdary/employability-analytics.git
-cd employability-analytics
 
 
 
