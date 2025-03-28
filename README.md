@@ -1,19 +1,19 @@
-# Employability Analytics Dashboard
-An interactive Power BI dashboard to uncover trends and insights for Business Analyst job seekers across the U.S.
+# Employability Analytics Dashboard  
+Empowering career advisors with real-time labor market insights for Business Analyst roles across the U.S.
 
 ---
 
 ## 📄 Project Description
 
-This project analyzes job market data to help career advisors make data-driven decisions. Using Power BI, we visualize Business Analyst job listings from across the U.S. to highlight:
+This project aims to optimize career advisory services by providing data-driven insights into the Business Analyst job market. Our dashboard helps career advisors analyze:
 
-- 📈 Job market trends over time  
-- 💰 Salary benchmarks by role and state  
-- 📍 Employer demand  
-- 🧭 Career path distributions (remote, hybrid, on-site)  
-- 🔥 Candidate interest and competition across states
+- 📈 Job market trends  
+- 💰 Salary benchmarks  
+- 🔥 Candidate interest across locations  
+- 🧭 Career path preferences  
+- 🏢 Employer demand  
 
-This dashboard is especially helpful for career advisors and job seekers looking for data-backed recommendations.
+Using data sourced from LinkedIn and cleaned with Python, the dashboard provides real-time visualizations to support advisors in making accurate, personalized, and informed recommendations for job seekers.
 
 ---
 
@@ -33,9 +33,9 @@ This dashboard is especially helpful for career advisors and job seekers looking
 
 ## ⚙️ Installation
 
-> This dashboard was developed using Power BI. You’ll need Power BI Desktop to view and interact with the `.pbix` file.
+> You need [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open and interact with the dashboard.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ananyachowdary/aspnet_employability_dashboard.git
-cd aspnet_employability_dashboard
+git clone https://github.com/ananyachowdary/employability-analytics.git
+cd employability-analytics
