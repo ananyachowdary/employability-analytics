@@ -69,30 +69,22 @@ Reset filters using the built-in reset button
 
 ## Project Structure
 
-employability-analytics/├── Team16.pbix
-                        ├── README.md 
-                        ├── Jobmarkettrends.jpeg 
-                        ├── Salarybenchmarking.jpeg 
-                        ├── candidate_interest.jpeg 
-                        ├── career_path.jpeg 
-                        ├── employer_demand.jpeg 
-                        ├── data/ 
-                        │ └── CLEANED_Business_analyst_job_listings.csv
-
+employability-analytics/ ├── Team16.pbix ├── README.md ├── Jobmarkettrends.jpeg ├── Salarybenchmarking.jpeg ├── candidate_interest.jpeg ├── career_path.jpeg ├── employer_demand.jpeg ├── data/ │ └── CLEANED_Business_analyst_job_listings.csv
 
 ## Acknowledgements
 
-Power BI
-Kaggle & LinkedIn job datasets
-Python (Pandas) for data preprocessing
-Team 16 – IS-5960-04 @ Saint Louis University:
-Ananya Chowdary Bheemaneni
-Maneesha Kakarla
-Bala Krishna Kalavakunta
-Laya Kalva
-Manohar Kancharla
-Sai Venkata Sriram Chowdary Karicheti
-Professor Maria Weber
+- [Power BI](https://powerbi.microsoft.com/)
+- Kaggle & LinkedIn job datasets
+- Python (Pandas) for data preprocessing
+- Team 16 – IS-5960-04 @ Saint Louis University:
+  - Ananya Chowdary Bheemaneni  
+  - Maneesha Kakarla  
+  - Bala Krishna Kalavakunta  
+  - Laya Kalva  
+  - Manohar Kancharla  
+  - Sai Venkata Sriram Chowdary Karicheti
+- Professor Maria Weber
+
 
 
 ## Installation
