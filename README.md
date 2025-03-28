@@ -33,12 +33,7 @@ This dashboard is especially helpful for career advisors and job seekers looking
 
 ---
 
-## ⚙️ Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/ananyachowdary/employability-analytics.git
-cd employability-analytics
 
 ## 📊 Dashboard Preview
 
