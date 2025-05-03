@@ -11,7 +11,7 @@ This Power BI dashboard offers career advisors and job seekers a comprehensive o
 - 💰 Salary trends by role, region, and experience  
 - 📍 Regional hiring demand  
 - 🎯 Career path trajectories  
-- 🔥 Market competition and application trends
+- 🔥 Market competition and application trends  
 
 Our goal is to support data-driven decision-making for both advisors and candidates seeking employment in the Business Analyst field.
 
@@ -19,7 +19,7 @@ Our goal is to support data-driven decision-making for both advisors and candida
 
 ## 📚 Table of Contents
 
-- [Usage](#usage)
+- [Usage](#️usage)
 - [Features](#features)
 - [Dashboard Preview](#dashboard-preview)
 - [Project Structure](#project-structure)
@@ -32,7 +32,7 @@ Our goal is to support data-driven decision-making for both advisors and candida
 ## 🛠️ Usage
 
 1. Open **Power BI Desktop**  
-2. Load `Team16.pbix` file  
+2. Load the `Team16.pbix` file  
 3. Use slicers to filter by:
    - Location  
    - Experience level  
@@ -50,13 +50,13 @@ Our goal is to support data-driven decision-making for both advisors and candida
 - 🌍 Geographic mapping of hiring demand  
 - 🔥 Application intensity and competition ratios  
 - 🧭 Career path and work type breakdown  
-- 🎯 Real-time slicing and dashboard interactivity
+- 🎯 Real-time slicing and dashboard interactivity  
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-### 📍 Overview Page
+### 📍 Overview Page  
 ![Overview](overview.jpeg)
 
 ### 📈 Job Market Trends  
@@ -78,3 +78,43 @@ Our goal is to support data-driven decision-making for both advisors and candida
 
 ## 📁 Project Structure
 
+employability-analytics/
+├── Team16.pbix
+├── README.md
+├── overview.jpeg
+├── jobmarket.jpeg
+├── hiring.jpeg
+├── salary.jpeg
+├── applicationintensity.jpeg
+├── career.jpeg
+├── data/
+│   └── team16_Dataset.xlsx
+
+
+---
+
+## 🙌 Acknowledgements
+
+This project was made possible through collaborative effort and guidance from:
+
+- 💼 [Power BI](https://powerbi.microsoft.com/)
+- 📊 Kaggle & LinkedIn job datasets  
+- 🐍 Python (Pandas) for data preprocessing  
+- 👥 Team 16 – IS-5960-04 @ Saint Louis University:
+  - Ananya Chowdary Bheemaneni  
+  - Maneesha Kakarla  
+  - Bala Krishna Kalavakunta  
+  - Laya Kalva  
+  - Manohar Kancharla  
+  - Sai Venkata Sriram Chowdary Karicheti  
+- 👩‍🏫 Professor Maria Weber for her continuous guidance and feedback  
+
+---
+
+## 💻 Installation
+
+> You need [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open and interact with the `.pbix` dashboard file.
+
+```bash
+git clone https://github.com/ananyachowdary/employability-analytics.git
+cd employability-analytics
