@@ -1,5 +1,5 @@
 # 📊 Employability Analytics Dashboard  
-Empowering career advisors with real-time labor market insights for Business Analyst roles across the U.S.
+Empowering job seekers and career advisors with real-time labor market insights for Business Analyst roles across the U.S.
 
 ---
 
@@ -109,7 +109,7 @@ This project was made possible through collaborative effort and guidance from:
   - Laya Kalva  
   - Manohar Kancharla  
   - Sai Venkata Sriram Chowdary Karicheti  
-- 👩‍🏫 We thank Professor Maria Weber for her continuous guidance and feedback  
+- 👩‍🏫 Professor Maria Weber for her continuous guidance and feedback  
 
 ---
 
