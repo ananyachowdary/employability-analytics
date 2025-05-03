@@ -19,13 +19,13 @@ Our goal is to support data-driven decision-making for both advisors and candida
 
 ## 📚 Table of Contents
 
-- [Usage](#️usage)
-- [Features](#features)
-- [Dashboard Preview](#dashboard-preview)
-- [Project Structure](#project-structure)
-- [Acknowledgements](#acknowledgements)
-- [Installation](#installation)
-- [Contributing](#contributing)
+- [🛠️ Usage](#️🛠️-usage)
+- [🌟 Features](#🌟-features)
+- [🖼️ Dashboard Preview](#🖼️-dashboard-preview)
+- [📁 Project Structure](#📁-project-structure)
+- [🙌 Acknowledgements](#🙌-acknowledgements)
+- [💻 Installation](#💻-installation)
+- [🤝 Contributing](#🤝-contributing)
 
 ---
 
@@ -78,6 +78,7 @@ Our goal is to support data-driven decision-making for both advisors and candida
 
 ## 📁 Project Structure
 
+```bash
 employability-analytics/
 ├── Team16.pbix
 ├── README.md
@@ -87,9 +88,9 @@ employability-analytics/
 ├── salary.jpeg
 ├── applicationintensity.jpeg
 ├── career.jpeg
-├── data/
-│   └── team16_Dataset.xlsx
-
+└── data/
+    └── team16_Dataset.xlsx
+```
 
 ---
 
@@ -100,14 +101,14 @@ This project was made possible through collaborative effort and guidance from:
 - 💼 [Power BI](https://powerbi.microsoft.com/)
 - 📊 Kaggle & LinkedIn job datasets  
 - 🐍 Python (Pandas) for data preprocessing  
-- 👥 Team 16 – IS-5960-04 @ Saint Louis University:
+- 👥 **Team 16 – IS-5960-04 @ Saint Louis University**:
   - Ananya Chowdary Bheemaneni  
   - Maneesha Kakarla  
   - Bala Krishna Kalavakunta  
   - Laya Kalva  
   - Manohar Kancharla  
   - Sai Venkata Sriram Chowdary Karicheti  
-- 👩‍🏫 Professor Maria Weber for her continuous guidance and feedback  
+- 👩‍🏫 We thank Professor Maria Weber for her continuous guidance and feedback  
 
 ---
 
@@ -118,3 +119,16 @@ This project was made possible through collaborative effort and guidance from:
 ```bash
 git clone https://github.com/ananyachowdary/employability-analytics.git
 cd employability-analytics
+```
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome!  
+For major changes, please open an issue first to discuss what you'd like to change.
+
+To contribute:
+```bash
+fork → clone → branch → commit → push → pull request
+```
