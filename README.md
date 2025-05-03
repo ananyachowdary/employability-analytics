@@ -19,13 +19,14 @@ Our goal is to support data-driven decision-making for both advisors and candida
 
 ## 📚 Table of Contents
 
-- [🛠️ Usage](#️️️️️️️️️️️️️️usage)
-- [🌟 Features](#️️️️️️️️️️️️️️features)
-- [🖼️ Dashboard Preview](#️️️️️️️️️️️️️️dashboard-preview)
-- [📁 Project Structure](#️️️️️️️️️️️️️️project-structure)
-- [🙌 Acknowledgements](#️️️️️️️️️️️️️️acknowledgements)
-- [💻 Installation](#️️️️️️️️️️️️️️installation)
-- [🤝 Contributing](#️️️️️️️️️️️️️️contributing)
+- [🛠️ Usage](#️-usage)
+- [🌟 Features](#-features)
+- [🖼️ Dashboard Preview](#-dashboard-preview)
+- [📁 Project Structure](#-project-structure)
+- [🙌 Acknowledgements](#-acknowledgements)
+- [💻 Installation](#-installation)
+- [🤝 Contributing](#-contributing)
+
 
 ---
 
