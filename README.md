@@ -33,7 +33,7 @@ Our goal is to support data-driven decision-making for both advisors and candida
 ## 🛠️ Usage
 
 1. Open **Power BI Desktop**  
-2. Load the `Team16.pbix` file  
+2. Load the `Team.pbix` file  
 3. Use slicers to filter by:
    - Location  
    - Experience level  
@@ -81,7 +81,7 @@ Our goal is to support data-driven decision-making for both advisors and candida
 
 ```bash
 employability-analytics/
-├── Team16.pbix
+├── Team.pbix
 ├── README.md
 ├── overview.jpeg
 ├── jobmarket.jpeg
@@ -90,7 +90,7 @@ employability-analytics/
 ├── applicationintensity.jpeg
 ├── career.jpeg
 └── data/
-    └── team16_Dataset.xlsx
+    └── team_Dataset.xlsx
 ```
 
 ---
@@ -102,14 +102,8 @@ This project was made possible through collaborative effort and guidance from:
 - 💼 [Power BI](https://powerbi.microsoft.com/)
 - 📊 Kaggle & LinkedIn job datasets  
 - 🐍 Python (Pandas) for data preprocessing  
-- 👥 **Team 16 – IS-5960-04 @ Saint Louis University**:
   - Ananya Chowdary Bheemaneni  
-  - Maneesha Kakarla  
-  - Bala Krishna Kalavakunta  
-  - Laya Kalva  
-  - Manohar Kancharla  
-  - Sai Venkata Sriram Chowdary Karicheti  
-- 👩‍🏫 Professor Maria Weber for her continuous guidance and feedback  
+
 
 ---
 
