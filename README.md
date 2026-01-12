@@ -83,14 +83,12 @@ Our goal is to support data-driven decision-making for both advisors and candida
 employability-analytics/
 ├── Team.pbix
 ├── README.md
-├── overview.jpeg
 ├── jobmarket.jpeg
 ├── hiring.jpeg
 ├── salary.jpeg
 ├── applicationintensity.jpeg
 ├── career.jpeg
 └── data/
-    └── team_Dataset.xlsx
 ```
 
 ---
